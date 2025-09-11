@@ -97,7 +97,7 @@ body {
     background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     padding: 100px 0;
     border-radius: 0 0 30px 30px;
-    color: white;
+    color: #6d5ed9;
 }
 
 .hero-section .parallax-bg {
