@@ -15,7 +15,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: var(--bg-danger-soft);
+    background-color: var(--bg-light-soft);
     color: var(--text-dark);
     padding-top: 70px; /* For fixed navbar */
     overflow-x: hidden;
@@ -97,7 +97,7 @@ body {
     background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     padding: 100px 0;
     border-radius: 0 0 30px 30px;
-    color: #6d5ed9;
+    color: white;
 }
 
 .hero-section .parallax-bg {
