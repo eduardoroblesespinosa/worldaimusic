@@ -14,7 +14,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: var(--bg-light-soft);
+    background-color: #2D2D49;
     color: var(--text-dark);
     padding-top: 70px; /* For fixed navbar */
     overflow-x: hidden;
